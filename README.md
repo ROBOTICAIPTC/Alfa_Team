@@ -1,4 +1,72 @@
 Manual de ingeniería
+# WRO-2024
+# THE ALPHA
+
+![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.jpg)
+
+Equipo del Club de Robótica del IPTC:  The Alpha
+====
+
+**Detalles del equipo:**
+
+**Nombre del equipo:** The Alpha
+
+**Pais:** Panamá, Panamá Oeste, Distrito de Capira.
+
+**Miembros del equipo:** Isaac Pérez, Yanelis Pérez y Syrenia Vásquez.
+
+**Entrenador:** Mara Martínez 
+
+**Fotos del equipo:** Presentamos fotos del equipo, incluida una foto formal y una foto divertida.
+
+![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
+
+De derecha a izquierda
+- Syrenia Vásquez
+- Yanelis Pérez
+- Isaac Pérez
+
+![FormalTeam-2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team-2.jpg)
+
+![Formal-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team.jpg)
+
+![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)
+
+The Alpha es un robot programado para la conducción autónoma utilizando sensores y motores del kit LEGO Spike Prime y su caja de extensión.
+
+**Fotos del vehículo:** Contiene seis fotos del robot desde seis ángulos diferentes, y el vídeo de la conducción del robot.
+
+![a](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/a.jpg)
+
+![b](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/b.jpg)
+
+![c](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/c.jpg)
+
+![d](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/d.jpg)
+
+![e](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/e.jpg)
+
+![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/f.jpg)
+
+
+**Boceto:** Incluye un esquema detallado de las partes electrónicas y motores de este robot y cómo se conectan para su funcionamiento.
+
+![S1](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide1.JPG)
+
+![S2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide2.JPG)
+
+![S3](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide3.JPG)
+
+![S4](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide4.JPG)
+
+![S5](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide5.JPG)
+
+![S6](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide6.JPG)
+
+**Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
+
+[Diagrama.pptx](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Diagrama.pptx)
+
 ====
 
 Este repositorio contiene el manual de ingeniería de un modelo de vehículo autónomo que participará en la competencia WRO Future Engineers en la temporada 2024.
@@ -16,35 +84,3 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 ## Introducción
 
 _Esta parte debe ser completada por los participantes con las aclaraciones técnicas sobre el código: en qué módulos consta el código, cómo se relacionan con los componentes electromecánicos del vehículo y cuál es el proceso para construir/compilar/cargar el código en el sistema del vehículo. controladores._
-
-#  THE ALPHA
-COLOCAR EL LOGO DEL CLUB DE ROBOTICA
-
- Equipo del Club de Robótica del IPTC:  The Alpha
-# WRO-2024
-The Alpha es un robot programado para la conducción autónoma utilizando sensores y motores del kit LEGO Spike Prime y su caja de extensión.
-
-**Detalles del equipo:**
-
-**Nombre del equipo:** The Alpha
-
-**Pais:** Panamá, Panamá Oeste, Distrito de Capira.
-
-**Miembros del equipo:** Isaac Pérez, Yanelis Pérez y Syrenia Vásquez.
-
-**Entrenador:** Mara Martínez 
-
-**Fotos del equipo:** Presentamos fotos del equipo, incluida una foto formal y una foto divertida.
-
-![equipo](https://github.com/user-attachments/assets/8d057849-11a4-4c92-831a-31c49ace44ee)
-
-![equipo2](https://github.com/user-attachments/assets/c157c6a0-fcd5-4bde-ad79-86d96eeb05a6)
-
-**Fotos del vehículo:** Contiene seis fotos del robot desde seis ángulos diferentes, y el vídeo de la conducción del robot.
-
-**Boceto:** Incluye un esquema detallado de las partes electrónicas y motores de este robot y cómo se conectan para su funcionamiento.
-
-**Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
-
-[Diagrama.pptx](https://github.com/user-attachments/files/16354449/Diagrama.pptx)
-
