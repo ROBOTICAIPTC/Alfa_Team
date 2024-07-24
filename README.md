@@ -2,7 +2,7 @@ Manual de ingeniería
 # WRO-2024
 # THE ALPHA
 
-![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.jpg)
+![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.png)
 
 Equipo del Club de Robótica del IPTC:  The Alpha
 ====
@@ -36,17 +36,24 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 
 **Fotos del vehículo:** Contiene seis fotos del robot desde seis ángulos diferentes, y el vídeo de la conducción del robot.
 
-![a](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/a.jpg)
+- Superior
+![a](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/a.jpg)
 
-![b](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/b.jpg)
+- Frontal
+![b](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/b.jpg)
 
-![c](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/c.jpg)
+- Posterior
+![c](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/c.jpg)
 
-![d](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/d.jpg)
+- Derecha
+![d](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/d.jpg)
 
-![e](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/e.jpg)
+- Izquierdo
+![e](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/e.jpg)
 
-![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/f.jpg)
+-Inferior
+![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
+
 
 
 **Boceto:** Incluye un esquema detallado de las partes electrónicas y motores de este robot y cómo se conectan para su funcionamiento.
