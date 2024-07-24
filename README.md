@@ -51,7 +51,7 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 - Izquierdo
 ![e](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/e.jpg)
 
--Inferior
+- Inferior
 ![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
 
 

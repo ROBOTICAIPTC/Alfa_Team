@@ -18,5 +18,5 @@ This directory must contain 6 photos of the vehicle (from every side, from top a
 - Izquierdo
 ![e](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/e.jpg)
 
--Inferior
+- Inferior
 ![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
