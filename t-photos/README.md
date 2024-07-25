@@ -6,12 +6,6 @@ Este directorio debe contener 2 fotos del equipo (una oficial y una foto diverti
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
-- Syrenia Vásquez
-- Yanelis Pérez
-- Isaac Pérez
-
-![FormalTeam-2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team-2.jpg)
-
-![Formal-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team.jpg)
+- Syrenia Vásquez, Yanelis Pérez, Isaac Pérez
 
 ![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)

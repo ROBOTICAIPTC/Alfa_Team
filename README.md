@@ -22,13 +22,7 @@ Equipo del Club de Robótica del IPTC:  The Alpha
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
-- Syrenia Vásquez
-- Yanelis Pérez
-- Isaac Pérez
-
-![FormalTeam-2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team-2.jpg)
-
-![Formal-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal-team.jpg)
+- Syrenia Vásquez, Yanelis Pérez, Isaac Pérez
 
 ![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)
 
@@ -53,7 +47,6 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 
 - Inferior
 ![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
-
 
 
 **Boceto:** Incluye un esquema detallado de las partes electrónicas y motores de este robot y cómo se conectan para su funcionamiento.
