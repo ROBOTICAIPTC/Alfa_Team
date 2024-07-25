@@ -84,8 +84,7 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 * `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
-* Especificaciones y características principales:
-Resistente caja de almacenamiento con bandejas clasificadoras, hub programable, sensor de distancia, sensor de fuerza, sensor de color, motor grande, 2 motores medianos y más de 500 elementos LEGO Technic con un diseño atractivo y una nueva paleta cromática. 
+
  ## LEGO Spike Prime Hub / Datos Técnicos
 
 Especificaciones y características principales:
