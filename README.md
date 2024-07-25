@@ -76,6 +76,11 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 * `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
 * `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
+
+- Ronda de Desafio Abierto
+https://youtu.be/UtgpbQDvv6A?si=o45Yi6jhZjZpm_1W 
+
+
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 
  ## LEGO Spike Prime Hub / Datos Técnicos
@@ -106,5 +111,11 @@ Factor de forma simple para construir y volver a construir con rapidez.
 * El sensor ultrasónico mide la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
 
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
+
+LEGO® Education SPIKE™ App v. 3.4.3
+
+https://education.lego.com/es-es/downloads/spike-app/software/
+
+
 * `models` es para los archivos de modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
 * `other` es para otros archivos que pueden usarse para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.

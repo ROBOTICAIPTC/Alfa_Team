@@ -1,1 +1,2 @@
-https://www.youtube.com/watch?v=J5yrJuZZ5P8
+- Ronda de Desafio Abierto
+https://youtu.be/UtgpbQDvv6A?si=o45Yi6jhZjZpm_1W 
