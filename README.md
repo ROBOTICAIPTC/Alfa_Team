@@ -63,6 +63,7 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 
 ![S6](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide6.JPG)
 
+
 **Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
 
 [Diagrama.pptx](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/scheme.pptx)
@@ -109,6 +110,7 @@ Detecta 8 colores.
 Mide la intensidad de la luz blanca reflejada y la luz ambiente.
 Factor de forma simple para construir y volver a construir con rapidez.
 * El sensor ultrasónico mide la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
+* 
 
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
 
