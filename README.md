@@ -63,12 +63,13 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 
 ![S6](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide6.JPG)
 
-[ESQUEMA.pptx](https://github.com/user-attachments/files/16434945/ESQUEMA.pptx)
+[ESQUEMA.pptx](https://github.com/ROBOTICAIPTC/AlfaTeam/blob/main/schemes/Slide7.JPG)
 
 
 **Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
 
-[Diagrama.pptx](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/scheme.pptx)
+[Diagrama.pptx](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/scheme.pptX)
+
 Este repositorio contiene el manual de ingeniería de un modelo de vehículo autónomo que participará en la competencia WRO Future Engineers en la temporada 2024.
 
 ## Contenido
