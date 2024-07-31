@@ -65,7 +65,6 @@ The Alpha es un robot programado para la conducción autónoma utilizando sensor
 
 ![S7](https://github.com/ROBOTICAIPTC/AlfaTeam/blob/main/schemes/Slide7.JPG)
 
-
 **Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
 
 [Diagrama.pptx](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/scheme.pptX)
