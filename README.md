@@ -26,7 +26,7 @@ Fotos del vehiculo
 Boceto
 
 Datos técnicos
-
+# fotos del equipo  
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
