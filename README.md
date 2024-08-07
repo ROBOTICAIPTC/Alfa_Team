@@ -1,15 +1,15 @@
 Manual de ingeniería
 # WRO-2024
-#  ALPHA TEAM
+# The ALPHA TEAM
 
 ![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.png)
 
-Equipo del Club de Robótica del IPTC:   Alpha Team
+Equipo del Club de Robótica del IPTC:  The  Alpha Team
 ====
 
 **Detalles del equipo:**
 
-**Nombre del equipo:**  Alpha Team
+**Nombre del equipo:**   The Alpha Team
 
 **Pais:** Panamá, Panamá Oeste, Distrito de Capira.
 
@@ -19,7 +19,9 @@ Equipo del Club de Robótica del IPTC:   Alpha Team
 
 **Fotos del equipo:** Presentamos fotos del equipo, incluida una foto formal y una foto divertida.
 # Contenido 
-
+Fotos formar e informal del equipo 
+Fotos del vehiculo 
+Boceto
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
