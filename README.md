@@ -1,10 +1,10 @@
 Manual de ingeniería
 # WRO-2024
-# THE ALPHA
+# THE ALPHA TEAM
 
 ![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.png)
 
-Equipo del Club de Robótica del IPTC:  The Alpha
+Equipo del Club de Robótica del IPTC:  The Alpha Team
 ====
 
 **Detalles del equipo:**
