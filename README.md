@@ -108,7 +108,7 @@ https://youtu.be/UtgpbQDvv6A?si=o45Yi6jhZjZpm_1W
  SPIKE™ Prime de LEGO Education es una solución de aprendizaje completa que une el juego práctico con las experiencias de programación digital. La programación de arrastrar y soltar y las unidades didácticas dentro de la app SPIKE Prime se pasan al hub programable para que las construcciones físicas cobren vida. Independientemente del dispositivo que utilices, el diseño, la programación y la funcionalidad de la app son los mismos.
 La app SPIKE Prime es necesaria para usar el set, ya que no hay función de programación en el hub.
 
-*Especificaciones y características principales:
+* Especificaciones y características principales:
 
 Resistente caja de almacenamiento con bandejas clasificadoras, hub programable, sensor de distancia, sensor de fuerza, sensor de color, motor grande, 2 motores medianos y más de 500 elementos LEGO Technic con un diseño atractivo y una nueva paleta cromática
 Hub programable con una matriz de 5 x 5 luces, 6 puertos de entrada/salida, giroscopio integrado de 6 ejes, altavoz, conectividad Bluetooth y batería recargable.
