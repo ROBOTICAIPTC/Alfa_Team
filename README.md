@@ -7,7 +7,6 @@ Manual de ingeniería
 Equipo del Club de Robótica del IPTC:  The  Alpha Team
 ====
 
-**Detalles del equipo:**
 
 **Nombre del equipo:**   The Alpha Team
 
