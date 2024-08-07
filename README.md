@@ -20,8 +20,11 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
 **Fotos del equipo:** Presentamos fotos del equipo, incluida una foto formal y una foto divertida.
 # Contenido 
 Fotos formar e informal del equipo 
+
 Fotos del vehiculo 
+
 Boceto
+
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
