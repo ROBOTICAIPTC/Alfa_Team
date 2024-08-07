@@ -22,7 +22,8 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
   - foto formal
   - foto divertida   
 
-* Fotos del vehiculo 
+* Fotos del vehiculo
+  -  
 
 * Boceto
 
