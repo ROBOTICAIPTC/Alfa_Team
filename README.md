@@ -18,6 +18,7 @@ Equipo del Club de Robótica del IPTC:   Alpha Team
 **Entrenador:** Mara Martínez 
 
 **Fotos del equipo:** Presentamos fotos del equipo, incluida una foto formal y una foto divertida.
+# Contenido 
 
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
