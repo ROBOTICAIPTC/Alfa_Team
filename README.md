@@ -20,7 +20,8 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
 # Contenido 
 * Fotos del equipo
   - Foto formal
-  - Foto divertida   
+  - Foto divertida
+  - Foto informal   
 
 * Fotos del vehiculo
   - Superior
@@ -31,7 +32,8 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
   - Inferior 
 
 * Boceto
-  - Esquela 
+  - Diagrama esquematico
+  - Construcción del robot paso a paso 
 
 * Datos técnicos
 ## fotos del equipo  
