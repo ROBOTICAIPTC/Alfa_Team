@@ -19,25 +19,25 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
 # Content
 
 * Team Photos
-- Formal photo
-- Fun photo
-- Informal photo
+  - Formal photo
+  - Fun photo
+  - Informal photo
 * Photos of the vehicle
   - Superior
   -  Frontal
   -  Posterior
-  -  RightLeft
+  -  Right
+  -  Left
   -   Inferior
 * Sketch
-- Schematic diagram
-- Construction of the robot step by step
+  - Schematic diagram
+  -  Construction of the robot step by step
 
 * Technical data
-- Lego Spike
-- Engines
-- Sensors
-- Mobility
-- Energy
+  - Lego Spike
+  - Engines Sensors
+  - Mobility
+  - Energy
 
 
 
