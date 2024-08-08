@@ -157,9 +157,9 @@ Object Tracking: Keeps focus on a moving object
 Color Recognition: Identifies and distinguishes between different colors
 Tag Identification: Reads QR codes and other types of tags, facilitating interaction with the environment
 The HuskyLens is particularly useful for educators and robotics enthusiasts, as it enables developing creative projects without delving into complex programming, making machine vision technology accessible to all.
-  ### Movilidad
+  ### Mobility
   The robot is designed to follow a specific path in a straight line until the ultrasonic sensor detects an exterior wall. At the beginning of its journey, the robot advances continuously, moving in a straight line with precision. However, when approaching a wall, the ultrasonic sensor emits a signal that activates the stop mechanism. At this time, the robot stops immediately to avoid a collision. Once stopped, the robot begins a backward process to move away from the wall. After backing up a safe distance, the robot turns 40 degrees to the side. This turn allows you to change your direction and continue exploring the surrounding area.The robot is programmed to repeat this detection and reaction process until it has recorded a total of 12 encounters with the exterior wall. In each of these encounters, the robot stops, reverses and turns, ensuring that its trajectory is safe and controlled. Finally, after completing the 12 detections, the robot makes a final adjustment in its direction to return to the starting point, thus completing its journey in an efficient and orderly manner. This behavior not only demonstrates the robot’s ability to interact with its environment, but also illustrates fundamental principles of programming and robotics, such as obstacle detection and real-time decision making. 
-  ### Energia
+  ### Energy
 The SPIKE Prime system motors depend on the power supplied by the battery to operate. By receiving the control signal from the hub, the motors can rotate, move forward or reverse, allowing the robot to perform various tasks and movements. The battery ensures that the motors operate continuously and efficiently, which is essential to maintain performance during learning sessions.  
 
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
