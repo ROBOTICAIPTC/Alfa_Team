@@ -50,7 +50,7 @@ De derecha a izquierda
 
 ![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)
 
-The Alpha es un robot programado para la conducción autónoma utilizando sensores y motores del kit LEGO Spike Prime y su caja de extensión.
+**The Alpha es un robot programado para la conducción autónoma utilizando sensores y motores del kit LEGO Spike Prime y su caja de extensión.**
 
 **Fotos del vehículo:** Contiene seis fotos del robot desde seis ángulos diferentes, y el vídeo de la conducción del robot.
 
