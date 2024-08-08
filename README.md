@@ -94,6 +94,21 @@ De derecha a izquierda
 
 ![S6](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide6.JPG)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [ESQUEMA.pptx](https://github.com/user-attachments/files/16435126/ESQUEMA.pptx)
 
 
