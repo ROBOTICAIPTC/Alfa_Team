@@ -16,37 +16,30 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
 
 **Entrenador:** Mara Martínez 
 
+# Content
 
-# Contenido 
-* Fotos del equipo
-  - Foto formal
-  - Foto divertida
-  - Foto informal   
-
-* Fotos del vehiculo
+* Team Photos
+- Formal photo
+- Fun photo
+- Informal photo
+* Photos of the vehicle
   - Superior
-  - Frontal
-  - Posterior
-  - Derecha
-  - Izquierdo
-  - Inferior 
+  -  Frontal
+  -  Posterior
+  -  RightLeft
+  -   Inferior
+* Sketch
+- Schematic diagram
+- Construction of the robot step by step
 
-* Boceto
-  - Diagrama esquematico
-  - Construcción del robot paso a paso
+* Technical data
+- Lego Spike
+- Engines
+- Sensors
+- Mobility
+- Energy
 
- * Contenido visual
-    - Video de demostración (sentido horario)
-    - Video de demostracion (sentido antihorario)
 
- 
-
-* Datos técnicos
-  - Lego Spike
-  - Motores
-  - Sensores
-  - Movilidad
-  - Energía
 
         
 ## fotos del equipo  
