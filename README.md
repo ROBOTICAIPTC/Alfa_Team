@@ -93,18 +93,17 @@ De derecha a izquierda
 [ESQUEMA.pptx](https://github.com/user-attachments/files/16435126/ESQUEMA.pptx)
 
 
-**Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
+**Logical Connectivity Diagram.:** Provide an explanation of the software used for the sensors and motors programmed for robot automation.
+## visual content 
 
-## Contenido Visual 
-
-- Ronda de Desafio Abierto (horario) 
+- Open Challenge Round (schedule). 
 https://youtu.be/4qoZQ8H3uwU
-- Ronda de Desafío Abierto (anti horario)
+- Open Challenge Round (counterclockwise).
   https://youtu.be/t_NFNiub5n4
-- Ronda de Desafío con obstáculos
+- Obstacle Challenge Round.
   https://youtu.be/e2eDjFHYuKM
 
- ##  Datos Técnicos
+ ##  Technical data
  ### LEGO Spike Prime 
  
  SPIKE™ Prime from LEGO Education is a complete learning solution that unites hands-on play with digital coding experiences. Drag-and-drop programming and learning units within the SPIKE Prime app are passed to the programmable hub to bring physical builds to life. Regardless of the device you use, the design, programming and functionality of the app are the same. The SPIKE Prime app is required to use the set, as there is no scheduling function on the hub.
@@ -113,27 +112,34 @@ Sturdy storage box with sorting trays, programmable hub, distance sensor, force 
 Programmable hub with a 5 x 5 light matrix, 6 input/output ports, integrated 6-axis gyroscope, speaker, Bluetooth connectivity and rechargeable battery.
 The advanced yet easy-to-use LEGO Technic SPIKE Prime Hub is a brick-shaped device that includes 6 input/output ports to connect to a range of sensors and motors, a customizable 5 x 5 light matrix, Bluetooth connectivity, speaker, 6-axis gyroscope, rechargeable lithium-ion battery, and a micro USB port to connect to compatible tablets and computers. Additionally, the Large Hub is compatible with LEGO Technic elements to create fun robots, dynamic devices, and other interactive models.
 
-### Motores
+### engines
 
-* El Motor Angular Grande de LEGO Technic es la Cuenta con un sensor de rotación integrado y posicionamiento absoluto para un correcto control direccional, la solución ideal para construcciones más potentes y de torque.
-Perfecto para aplicaciones muy potentes y de par elevado.
-Control de la retroalimentación del tacómetro con una exactitud de 1°.
-Marcas del punto cero para una calibración sencilla.
-Factor de forma simple para construir y volver a construir con rapidez.
-* El Motor Angular Mediano de LEGO Technic, que presenta un diseño compacto, sensor de rotación integrado con posicionamiento absoluto y precisión de 1 grado.
-Perfecto para aplicaciones de carga inferior y rápida respuesta.
-Diseño compacto para modelos más pequeños con espacio limitado.
-Sensor de rotación integrado y posicionamiento absoluto para un correcto control direccional.
-Factor de forma simple para construir y volver a construir con rapidez.
+* The LEGO Technic Large Angular Motor features an integrated rotation sensor and absolute positioning for proper directional control, the ideal solution for more powerful and high-torque constructions.
+Perfect for very powerful and high-torque applications.
+Tachometer feedback control with an accuracy of 1°.
+Zero point marks for easy calibration.
+Simple form factor for quick building and rebuilding
+* The LEGO Technic Medium Angular Motor features a compact design, integrated rotation sensor with absolute positioning, and precision of 1 degree. It is ideal for lower-load applications and offers rapid response capabilities.
+Key features include:
+Compact Design: Suitable for smaller models with limited space.
+Integrated Rotation Sensor: Ensures accurate directional control.
+Simple Form Factor: Facilitates quick building and rebuilding.
+This motor is perfect for applications requiring efficient performance in a smaller footprint, making it a versatile choice for various LEGO Technic projects
 
-### Sensores
+### sensors
 
-* El Sensor de Color de LEGO Technic distingue entre 8 colores y mide la luz ambiente y la reflejada, desde la oscuridad a la luz solar intensa.
-Frecuencia de muestreo de 1kHz de gran precisión, datos precisos para resultados repetibles.
-Detecta 8 colores.
-Mide la intensidad de la luz blanca reflejada y la luz ambiente.
-Factor de forma simple para construir y volver a construir con rapidez.
-* El sensor ultrasónico mide la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
+* The LEGO Technic Color Sensor distinguishes between 8 colors and measures both ambient and reflected light, ranging from darkness to bright sunlight.
+Key features include:
+High-Accuracy Sampling: A sample rate of 1kHz provides consistent and precise data for repeatable results.
+Color Detection: Capable of detecting 8 different colors.
+Light Measurement: Measures the intensity of reflected white light as well as ambient light.
+Simple Form Factor: Designed for quick building and rebuilding.
+This sensor is ideal for projects requiring accurate color detection and light measurement in various lighting conditions
+* The ultrasonic sensor measures distance using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the reflected wave that returns from the object. Ultrasonic sensors calculate the distance to the object by timing the interval between emission and reception.
+Key Features:
+Distance Measurement: Accurately measures the distance to objects by analyzing the time it takes for the sound wave to return.
+Ultrasonic Technology: Utilizes sound waves beyond the range of human hearing for precise detection.
+This sensor is ideal for applications requiring accurate distance measurement in robotics and automation projects.
 * Sensor de imagen Huskylens
   The HuskyLens is an easy-to-use AI-based machine vision camera with several key features and functions:
 Key Features
