@@ -108,11 +108,10 @@ https://youtu.be/4qoZQ8H3uwU
  ### LEGO Spike Prime 
  
  SPIKE™ Prime from LEGO Education is a complete learning solution that unites hands-on play with digital coding experiences. Drag-and-drop programming and learning units within the SPIKE Prime app are passed to the programmable hub to bring physical builds to life. Regardless of the device you use, the design, programming and functionality of the app are the same. The SPIKE Prime app is required to use the set, as there is no scheduling function on the hub.
-* Especificaciones y características principales:
-
-Resistente caja de almacenamiento con bandejas clasificadoras, hub programable, sensor de distancia, sensor de fuerza, sensor de color, motor grande, 2 motores medianos y más de 500 elementos LEGO Technic con un diseño atractivo y una nueva paleta cromática
-Hub programable con una matriz de 5 x 5 luces, 6 puertos de entrada/salida, giroscopio integrado de 6 ejes, altavoz, conectividad Bluetooth y batería recargable.
- Hub SPIKE Prime Avanzado pero fácil de usar, el Hub grande de LEGO Technic es un dispositivo con forma de ladrillo que incluye 6 puertos de entrada/salida para conectar a una serie de sensores y motores, una matriz personalizable de 5 x 5 luces, conectividad Bluetooth, altavoz, giroscopio de 6 ejes, batería recargable de iones de litio y un puerto USB micro para conectarse a tabletas y ordenadores compatibles. Además, el Hub grande es compatible con elementos LEGO Technic para crear robots divertidos, dispositivos dinámicos y otros modelos interactivos.
+* Specifications and main features:
+Sturdy storage box with sorting trays, programmable hub, distance sensor, force sensor, color sensor, large motor, 2 medium motors and over 500 LEGO Technic elements with an attractive design and a new color palette.
+Programmable hub with a 5 x 5 light matrix, 6 input/output ports, integrated 6-axis gyroscope, speaker, Bluetooth connectivity and rechargeable battery.
+The advanced yet easy-to-use LEGO Technic SPIKE Prime Hub is a brick-shaped device that includes 6 input/output ports to connect to a range of sensors and motors, a customizable 5 x 5 light matrix, Bluetooth connectivity, speaker, 6-axis gyroscope, rechargeable lithium-ion battery, and a micro USB port to connect to compatible tablets and computers. Additionally, the Large Hub is compatible with LEGO Technic elements to create fun robots, dynamic devices, and other interactive models.
 
 ### Motores
 
