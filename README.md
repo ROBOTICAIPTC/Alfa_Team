@@ -50,7 +50,7 @@ De derecha a izquierda
 
 ![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)
 
-**The Alpha es un robot programado para la conducción autónoma utilizando sensores y motores del kit LEGO Spike Prime y su caja de extensión.**
+**The Alpha it is a robot programmed for autonomous driving using sensors and motors from the LEGO Spike Prime kit and its extension box.**
 
 **Fotos del vehículo:** Contiene seis fotos del robot desde seis ángulos diferentes, y el vídeo de la conducción del robot.
 
@@ -72,9 +72,9 @@ De derecha a izquierda
 - Inferior
 ![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
 
+**Sketch:** Include a detailed schematic of the electronic components and motors of this robot and how they are connected for its operation.
 
-**Boceto:** Incluye un esquema detallado de las partes electrónicas y motores de este robot y cómo se conectan para su funcionamiento.
-
+ 
 ![S1](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide1.JPG)
 
 ![S2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide2.JPG)
@@ -112,7 +112,7 @@ Sturdy storage box with sorting trays, programmable hub, distance sensor, force 
 Programmable hub with a 5 x 5 light matrix, 6 input/output ports, integrated 6-axis gyroscope, speaker, Bluetooth connectivity and rechargeable battery.
 The advanced yet easy-to-use LEGO Technic SPIKE Prime Hub is a brick-shaped device that includes 6 input/output ports to connect to a range of sensors and motors, a customizable 5 x 5 light matrix, Bluetooth connectivity, speaker, 6-axis gyroscope, rechargeable lithium-ion battery, and a micro USB port to connect to compatible tablets and computers. Additionally, the Large Hub is compatible with LEGO Technic elements to create fun robots, dynamic devices, and other interactive models.
 
-### engines
+### Engines
 
 * The LEGO Technic Large Angular Motor features an integrated rotation sensor and absolute positioning for proper directional control, the ideal solution for more powerful and high-torque constructions.
 Perfect for very powerful and high-torque applications.
@@ -126,7 +126,7 @@ Integrated Rotation Sensor: Ensures accurate directional control.
 Simple Form Factor: Facilitates quick building and rebuilding.
 This motor is perfect for applications requiring efficient performance in a smaller footprint, making it a versatile choice for various LEGO Technic projects
 
-### sensors
+### Sensors
 
 * The LEGO Technic Color Sensor distinguishes between 8 colors and measures both ambient and reflected light, ranging from darkness to bright sunlight.
 Key features include:
