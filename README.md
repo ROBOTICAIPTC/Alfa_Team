@@ -36,6 +36,12 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
   - Construcción del robot paso a paso 
 
 * Datos técnicos
+  - Lego Spike
+  - Motores
+  - Sensores
+  - Movilidad
+  - Energía
+    
 ## fotos del equipo  
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
@@ -102,7 +108,7 @@ https://youtu.be/osvuPIhRdl8
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 
  ##  Datos Técnicos
- ### LEGO Spike Prime Hub
+ ### LEGO Spike Prime 
  
  SPIKE™ Prime de LEGO Education es una solución de aprendizaje completa que une el juego práctico con las experiencias de programación digital. La programación de arrastrar y soltar y las unidades didácticas dentro de la app SPIKE Prime se pasan al hub programable para que las construcciones físicas cobren vida. Independientemente del dispositivo que utilices, el diseño, la programación y la funcionalidad de la app son los mismos.
 La app SPIKE Prime es necesaria para usar el set, ya que no hay función de programación en el hub.
@@ -134,7 +140,12 @@ Detecta 8 colores.
 Mide la intensidad de la luz blanca reflejada y la luz ambiente.
 Factor de forma simple para construir y volver a construir con rapidez.
 * El sensor ultrasónico mide la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
-* 
+  ### Movilidad
+  El robot está diseñado para seguir un recorrido específico en línea recta hasta que el sensor ultrasónico detecta una pared exterior. Al inicio de su trayecto, el robot avanza de manera continua, moviéndose en línea recta con precisión. Sin embargo, al acercarse a una pared, el sensor ultrasónico emite una señal que activa el mecanismo de detención. En este momento, el robot se detiene inmediatamente para evitar un choque.
+Una vez detenido, el robot inicia un proceso de retroceso para alejarse de la pared. Después de retroceder una distancia segura, el robot gira 40 grados hacia un lado. Este giro le permite cambiar su dirección y continuar explorando el área circundante.
+El robot está programado para repetir este proceso de detección y reacción hasta que haya registrado un total de 12 encuentros con la pared exterior. En cada uno de estos encuentros, el robot se detiene, retrocede y gira, asegurando que su trayectoria sea segura y controlada. Finalmente, tras completar las 12 detecciones, el robot realiza un ajuste final en su dirección para regresar al punto de partida, completando así su recorrido de manera eficiente y ordenada. Este comportamiento no solo demuestra la capacidad del robot para interactuar con su entorno, sino que también ilustra principios fundamentales de programación y robótica, como la detección de obstáculos y la toma de decisiones en tiempo real.
+  ### Energia
+  Los motores del sistema SPIKE Prime dependen de la energía suministrada por la batería para funcionar. Al recibir la señal de control del hub, los motores pueden girar, avanzar o retroceder, permitiendo que el robot realice diversas tareas y movimientos. La batería asegura que los motores operen de manera continua y eficiente, lo que es esencial para mantener el rendimiento durante las sesiones de aprendizaje. 
 
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
 
