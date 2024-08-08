@@ -154,6 +154,23 @@ Detecta 8 colores.
 Mide la intensidad de la luz blanca reflejada y la luz ambiente.
 Factor de forma simple para construir y volver a construir con rapidez.
 * El sensor ultrasónico mide la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
+* Sensor de imagen Huskylens
+  The HuskyLens is an easy-to-use AI-based machine vision camera with several key features and functions:
+Key Features
+Processor: Kendryte K210 chip for efficient image processing tasks
+Image Sensor: Available in two versions - OV2640 2.0MP or OV5640 5.0MP
+Display: 2.0 inch IPS screen for visualizing images and configuring parameters without a computer
+Connectivity: Easily connects to platforms like Arduino, micro:bit and Raspberry Pi via I2C and UART ports for seamless integration into various projects
+Power Supply: Works with 3.3 to 5.0V, but may require an external power source due to its current consumption
+Functions
+The HuskyLens offers six main operating modes:
+Face Recognition: Identifies and stores faces, enabling personalized interactions
+Object Recognition: Capable of identifying and classifying different objects in the environment
+Line Following: Allows mobile devices to follow trajectories marked on the ground
+Object Tracking: Keeps focus on a moving object
+Color Recognition: Identifies and distinguishes between different colors
+Tag Identification: Reads QR codes and other types of tags, facilitating interaction with the environment
+The HuskyLens is particularly useful for educators and robotics enthusiasts, as it enables developing creative projects without delving into complex programming, making machine vision technology accessible to all.
   ### Movilidad
   El robot está diseñado para seguir un recorrido específico en línea recta hasta que el sensor ultrasónico detecta una pared exterior. Al inicio de su trayecto, el robot avanza de manera continua, moviéndose en línea recta con precisión. Sin embargo, al acercarse a una pared, el sensor ultrasónico emite una señal que activa el mecanismo de detención. En este momento, el robot se detiene inmediatamente para evitar un choque.
 Una vez detenido, el robot inicia un proceso de retroceso para alejarse de la pared. Después de retroceder una distancia segura, el robot gira 40 grados hacia un lado. Este giro le permite cambiar su dirección y continuar explorando el área circundante.
