@@ -108,6 +108,8 @@ De derecha a izquierda
 https://youtu.be/4qoZQ8H3uwU
 - Ronda de Desafío Abierto (anti horario)
   https://youtu.be/t_NFNiub5n4
+- Ronda de Desafío con obstáculos
+  https://youtu.be/e2eDjFHYuKM
 
  ##  Datos Técnicos
  ### LEGO Spike Prime 
