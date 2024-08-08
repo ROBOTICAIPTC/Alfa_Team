@@ -140,7 +140,7 @@ Key Features:
 Distance Measurement: Accurately measures the distance to objects by analyzing the time it takes for the sound wave to return.
 Ultrasonic Technology: Utilizes sound waves beyond the range of human hearing for precise detection.
 This sensor is ideal for applications requiring accurate distance measurement in robotics and automation projects.
-* Sensor de imagen Huskylens
+* image sensor Huskylens
   The HuskyLens is an easy-to-use AI-based machine vision camera with several key features and functions:
 Key Features
 Processor: Kendryte K210 chip for efficient image processing tasks
