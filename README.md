@@ -33,7 +33,11 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
 
 * Boceto
   - Diagrama esquematico
-  - Construcción del robot paso a paso 
+  - Construcción del robot paso a paso
+
+ * Contenido visual
+  - Video de demostración (sentido horario)
+  - Video de demostracion (sentido antihorario)
 
 * Datos técnicos
   - Lego Spike
@@ -41,7 +45,8 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
   - Sensores
   - Movilidad
   - Energía
-    
+
+        
 ## fotos del equipo  
 ![Formal](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/formal.jpg)
 
@@ -92,16 +97,12 @@ De derecha a izquierda
 
 **Diagrama de Conectividad Lógica:** Proporciona una explicación del software utilizado para los sensores y motores programados para la automatización del robot.
 
-## Contenido
+## Contenido Visual 
 
-* `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
-* `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
-* `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
-
-- Ronda de Desafio Abierto
-https://youtu.be/osvuPIhRdl8
-
-* `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+- Ronda de Desafio Abierto (horario) 
+https://youtu.be/4qoZQ8H3uwU
+- Ronda de Desafío Abierto (anti horario)
+  https://youtu.be/t_NFNiub5n4
 
  ##  Datos Técnicos
  ### LEGO Spike Prime 
