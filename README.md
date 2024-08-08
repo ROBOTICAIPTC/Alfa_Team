@@ -97,8 +97,7 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
 
 - Ronda de Desafio Abierto
-https://youtu.be/UtgpbQDvv6A?si=o45Yi6jhZjZpm_1W 
-
+https://youtu.be/osvuPIhRdl8
 
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 
