@@ -32,8 +32,8 @@ Equipo del Club de Robótica del IPTC:  The  Alpha Team
   - Inferior 
 
 * Boceto
-  - Diagrama esquematico
-  - Construcción del robot paso a paso
+   -  Diagrama esquematico
+   -  Construcción del robot paso a paso
 
  * Contenido visual
   - Video de demostración (sentido horario)
