@@ -1,20 +1,20 @@
-Manual de ingeniería
+Engineering Manual
 # WRO-2024
 # The ALPHA TEAM
 
 ![Logo](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/other/logo-equipo.png)
 
-Equipo del Club de Robótica del IPTC:  The  Alpha Team
+Robotics Club Team of the IPTC:  The  Alpha Team
 ====
 
 
-**Nombre del equipo:**   The Alpha Team
+**Team Name:**   The Alpha Team
 
-**Pais:** Panamá, Panamá Oeste, Distrito de Capira.
+**Country:** Panamá, Panamá Oeste, Distrito de Capira.
 
-**Miembros del equipo:** Isaac Pérez, Yanelis Pérez y Syrenia Vásquez.
+**Team Members:** Isaac Pérez, Yanelis Pérez y Syrenia Vásquez.
 
-**Entrenador:** Mara Martínez 
+**Coach:** Mara Martínez 
 
 # Content
 
