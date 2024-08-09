@@ -100,7 +100,7 @@ From right to left
 **Sketch:** Include a detailed schematic of the electronic components and motors of this robot and how they are connected for its operation.
 
  
-![S1](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide1.JPG)
+![image](https://github.com/user-attachments/assets/38e5f075-7f89-4b69-9e31-5de6b1af6f18)
 
 ![S2](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/schemes/Slide2.JPG)
 
