@@ -115,6 +115,7 @@ From right to left
 
 - Esquematico
 [ESQUEMA.pptx](https://github.com/user-attachments/files/16435126/ESQUEMA.pptx)
+![image](https://github.com/user-attachments/assets/094c1065-9524-4c44-8d90-b657f4ca0cf8)
 
 
 **Logical Connectivity Diagram.:** Provide an explanation of the software used for the sensors and motors programmed for robot automation.
