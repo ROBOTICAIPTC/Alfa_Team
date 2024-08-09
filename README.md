@@ -48,12 +48,35 @@ Robotics Club Team of the IPTC:  The  Alpha Team
 From right to left
 - Syrenia Vásquez, Yanelis Pérez, Isaac Pérez
 
+![informal](https://github.com/user-attachments/assets/496a4df6-d3bd-4d27-9ee5-0db73e8dd791)
+
+
 ![Funny-Team](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/t-photos/funny-team.jpg)
 
 **The Alpha it is a robot programmed for autonomous driving using sensors and motors from the LEGO Spike Prime kit and its extension box.**
 
 **Vehicle photos:** it includes 6 photos of the robot from 6 different angles, and videos of the robot in operation .
 
+- Top
+![cielo](https://github.com/user-attachments/assets/f75f86ad-cff5-4d9d-a068-b7de457e562a)
+
+- Down
+![abajo](https://github.com/user-attachments/assets/6c76938b-9d8f-4e33-b357-d00f1a508aa4)
+
+- Front
+![frontal](https://github.com/user-attachments/assets/c4613af6-4a57-439f-8d78-e37f7fd1c1d4)
+
+- Baskward
+![posterior](https://github.com/user-attachments/assets/b94a57c5-eeed-40cb-9818-94f5ca85118b)
+
+- Right side
+![derecha](https://github.com/user-attachments/assets/f30c4386-9140-49b0-a9e4-f768acb413fc)
+
+
+- Left side
+![izquierda](https://github.com/user-attachments/assets/5afd707e-efb4-4925-8f61-fc7f78b1068a)
+
+<!--
 - Superior 
 ![a](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/a.jpg)
 
@@ -71,6 +94,7 @@ From right to left
 
 - Inferior
 ![f](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/f.jpg)
+-->
 
 **Sketch:** Include a detailed schematic of the electronic components and motors of this robot and how they are connected for its operation.
 
