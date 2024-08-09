@@ -35,7 +35,8 @@ Robotics Club Team of the IPTC:  The  Alpha Team
 
 * Technical data
   - Lego Spike
-  - Engines Sensors
+  - Engines
+  - Sensors
   - Mobility
   - Energy
 
