@@ -23,12 +23,12 @@ Robotics Club Team of the IPTC:  The  Alpha Team
   - Fun photo
   - Informal photo
 * Photos of the vehicle
-  - Superior
-  -  Frontal
-  -  Posterior
+  - Top
+  -  Front
+  -  Baskward
   -  Right
   -  Left
-  -   Inferior
+  -  Down
 * Sketch
   - Schematic diagram
   -  Construction of the robot step by step
