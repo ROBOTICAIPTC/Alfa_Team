@@ -54,7 +54,7 @@ From right to left
 
 **Vehicle photos:** it includes 6 photos of the robot from 6 different angles, and videos of the robot in operation .
 
-- Superior
+- Superior 
 ![a](https://github.com/ROBOTICAIPTC/Alfa_Team/blob/main/v-photos/a.jpg)
 
 - Frontal
