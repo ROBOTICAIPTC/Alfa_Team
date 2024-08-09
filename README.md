@@ -115,7 +115,19 @@ From right to left
 
 - Esquematico
 [ESQUEMA.pptx](https://github.com/user-attachments/files/16435126/ESQUEMA.pptx)
+### building the robot
 ![image](https://github.com/user-attachments/assets/094c1065-9524-4c44-8d90-b657f4ca0cf8)
+![image](https://github.com/user-attachments/assets/3216ba43-bf02-4354-adc4-b2810629f33c)
+![image](https://github.com/user-attachments/assets/918bed5f-4c13-4642-bf1b-60da63bf3647)
+![image](https://github.com/user-attachments/assets/acc8f7c7-3819-4946-97b8-295a6cf1fe55)
+![image](https://github.com/user-attachments/assets/48d938d4-9b99-474e-a1d5-186af10e32f7)
+![image](https://github.com/user-attachments/assets/4b788083-2c51-4727-aa57-6a4abf1b1a91)
+![image](https://github.com/user-attachments/assets/5fe3c16a-3bd4-4317-bf72-24c6cad8d37a)
+![image](https://github.com/user-attachments/assets/7ce5864e-c557-4885-a837-21a5522447ea)
+![image](https://github.com/user-attachments/assets/73d65a5e-c79e-4e7b-b214-6b96e3204d50)
+![image](https://github.com/user-attachments/assets/b42d13b4-8fd6-4db4-a78a-db88119be5f4)
+
+
 
 
 **Logical Connectivity Diagram.:** Provide an explanation of the software used for the sensors and motors programmed for robot automation.
